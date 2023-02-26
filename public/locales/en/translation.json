@@ -1,0 +1,18 @@
+{
+  "name": "Name",
+  "id": "Identifer number",
+  "price": "Price",
+  "country": "Country",
+  "status": "Status",
+  "search": "Search",
+  "reset": "reset",
+  "type-text": "Type the text",
+  "available": "Available",
+  "notAvailable": "Not available",
+  "page": "page",
+  "description": "description",
+  "triggerDesc": "Descend sort text",
+  "triggerAsc": "Ascend sort text",
+  "cancelSort": "Aancel sort text",
+  "date": "Production date"
+}
